@@ -7,7 +7,7 @@ import os
 ROWS = 3
 COLS = 4
 
-# Reward layout for each grid cell
+# rEward layout for each grid cell
 reward_map = [
     [0,   0,  0,  10],    # +10 goal
     [0,   0,  0, -10],    # -10 goal
